@@ -1,0 +1,124 @@
+html{
+    font-family: 'Open Sans', sans-serif;
+
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+
+}
+
+
+body{
+   
+   
+     overflow: hidden; 
+    
+    
+}
+
+.logo_m{
+    
+    margin-left: 20px;
+}
+
+
+.main {
+    
+    /* background: linear-gradient(to right, #fdfdfd, #eeaf8bde ); */
+    
+    background: url('../css/img/1.png');
+    background-color: #fff;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    
+}
+
+.nav_1{
+    font-size: 75%;
+    /* margin-top: 25px */
+}
+.logo_big{
+    font-size: 400%;
+    color: rgb(223, 97, 39);
+    
+}
+
+.sign_up{
+  
+    margin-right: 10px;
+    display: inline-block;
+    border-radius: 10rem !important;
+}
+
+.hero_txt{
+    margin: 6% 0% ;
+    line-height: 145%;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+
+.background_2nd {
+  
+    
+
+}
+
+
+.button_group {
+    width: 14rem;
+    height: 2.5rem;
+    border-radius: 10rem;
+    background-color: rgb(233, 225, 255);
+    padding: .3rem .3rem;
+}
+
+.btn_1 {
+        border-radius: 10rem;
+        padding: .5rem .8rem;
+        font-size: 12px;
+        background-color: rgb(223, 97, 39);
+    
+}
+
+.btn_2 {
+    border-radius: 10rem;
+    padding: .5rem .8rem;
+    font-size: 12px;
+
+    
+}
+
+.text_warning{
+    color: rgb(223, 97, 39);
+
+}
+
+.top_links li a {
+    color:rgb(223, 97, 39) !important ;
+    transition:tranform 0.5s;
+}
+
+.top_links li a :hover,
+ {
+    color:rgb(87, 190, 66) !important ;
+
+}
+
+.main_para{
+    letter-spacing: 2px;
+    word-spacing: 4px;
+    line-height: 200%;
+}
+
+.btn_dlvry{
+    background-color:rgb(223, 97, 39) !important ;
+    border-radius: 10rem !important;
+    
+}
+
+.btn_dlvry:hover{
+    background-color:rgba(156, 53, 5, 0.856) !important ;
+    transition-delay: 0.25s;
+
+}
